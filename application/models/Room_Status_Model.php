@@ -1,5 +1,5 @@
 <?php
-class Room_Status_Model extends CI_Model
+class Room_status_model extends CI_Model
 {
   public function __construct()
   {

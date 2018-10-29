@@ -1,5 +1,5 @@
 <?php
-class Family_Room_Mappings_Model extends CI_Model
+class Family_room_mappings_model extends CI_Model
 {
   public function __construct()
   {

@@ -1,5 +1,5 @@
 <?php
-class Owner_Group_Model extends CI_Model
+class Owner_group_model extends CI_Model
 {
   public function __construct()
   {
